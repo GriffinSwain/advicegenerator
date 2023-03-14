@@ -11,6 +11,7 @@ export default function Mobile() {
                     {/* <img src={dice} className="diceIcon" alt="What" /> */}
                     <ParentMobileComponent/>
                     <br/>
+                    <br/>
                         {/* <button className="circle-btn"></button>
                         <img src={dice} alt="button icon" className="button-icon" /> */}
                 </Row>
