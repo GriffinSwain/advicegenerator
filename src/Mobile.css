@@ -1,0 +1,104 @@
+/* - Family: [Manrope](https://fonts.google.com/specimen/Manrope) */
+
+@font-face {
+    font-family: Manrope;
+    font-weight: 800;
+    src: url(/src/Assets/Manrope-Bold.ttf);
+  }
+  
+  @font-face {
+    font-family: Manrope-light;
+    src: url(/src/Assets/Manrope-Light.ttf);
+  }
+  
+  /* body{
+    width: 375px;
+    background-color: hsl(218, 23%, 16%);;
+  } */
+  
+  .cyan{
+    color: hsl(193, 38%, 86%);
+  }
+  
+  .green{
+    color: hsl(150, 100%, 66%);
+  }
+  
+  .Grayblue{
+  color: hsl(217, 19%, 38%);
+  }
+  
+  .Darkgrayblue{
+  color: hsl(217, 19%, 24%);
+  }
+  
+  .Darkblue{
+  color: hsl(218, 23%, 16%);
+  } 
+  
+  .adviceLogo{
+    /* margin-left: -20%; */
+  }
+  
+  .diceIcon{
+    color: hsl(150, 100%, 66%);
+    background-color: hsl(150, 100%, 66%);
+    margin-top: 10%;   
+    margin: 10%;
+  }
+  
+  .circle-Mobile-Btn {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    color: hsl(150, 100%, 66%);
+    background-color: hsl(150, 100%, 66%);
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .circle-btn:hover {
+    box-shadow: 0px 0px 25px 4px hsl(150, 100%, 66%);
+  }
+  
+  .mobile-button-container {
+    position: absolute;
+    margin-left: 37.2vw;
+    /* margin-top: 5vh; */
+  }
+  
+  .mobile-button-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+  }
+  
+  .bodyMobileText{
+    font-size: 20px;
+    font-family: Manrope;
+    font-weight: 100;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  
+  .headText{
+    margin-top: 5%;
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: hsl(150, 100%, 66%);
+    font-family: Manrope-light;
+  }
+  
+  .mobileBox{
+    justify-content: center;
+    text-align: center;
+    background-color: hsl(217, 19%, 24%);
+    border-radius: 2%;
+    margin-top: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
