@@ -8,6 +8,8 @@
 
 //If I went back and redid this, I would focus on getting responsivess done inside CSS instead of the way I did it (although CSS responsiveness has failed me in the past)
 
+//Peer Review: Pedro Castaneda - Great work! I liked the way you set up your file structure. Components for mobile and desktop. I would suggest using
+//letter-spacing: 5px; in CSS to separate the letters. Other than that I am always intrigued by your work because you have a unique way coding.
 
 import React, { useEffect, useState } from 'react';
 import Desktop from './components/desktop';
