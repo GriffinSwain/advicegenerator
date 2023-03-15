@@ -37,7 +37,7 @@
   } 
   
   .adviceLogo{
-    /* margin-left: -20%; */
+    margin-left: 10px;
   }
   
   .diceIcon{
@@ -64,8 +64,7 @@
   
   .mobile-button-container {
     position: absolute;
-    margin-left: 37.2vw;
-    /* margin-top: 5vh; */
+    margin-left: 36.4vw;
   }
   
   .mobile-button-icon {
@@ -79,17 +78,17 @@
   }
   
   .bodyMobileText{
-    font-size: 20px;
+    font-size: 24px;
     font-family: Manrope;
     font-weight: 100;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 8%;
+    margin-right: 8%;
   }
   
-  .headText{
-    margin-top: 5%;
-    font-size: 12px;
-    letter-spacing: 2px;
+  .headMobileText{
+    margin-top: 4%;
+    font-size: 11px;
+    letter-spacing: 1px;
     color: hsl(150, 100%, 66%);
     font-family: Manrope-light;
   }
@@ -98,7 +97,7 @@
     justify-content: center;
     text-align: center;
     background-color: hsl(217, 19%, 24%);
-    border-radius: 2%;
+    border-radius: 10px;
     margin-top: 30%;
     margin-left: 5%;
     margin-right: 5%;

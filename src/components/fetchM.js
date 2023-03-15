@@ -23,7 +23,7 @@ export function APIFetch({ update }) {
   return (
     <div>
       <br/>
-      <h1 className="headText green">A D V I C E &nbsp;# {number.toString().split('').join(' ')}</h1>
+      <h1 className="headMobileText green">A D V I C E &nbsp;# {number.toString().split('').join(' ')}</h1>
       <p className="bodyMobileText cyan">"{advice}"</p>
     </div>
   );
